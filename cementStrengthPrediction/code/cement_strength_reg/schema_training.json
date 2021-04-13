@@ -1,0 +1,38 @@
+{	"SampleFileName": "M1_Batches.xlsx",
+	"NumberofColumns" : 29,
+	"ColName": {
+		"Batch No" : "int64",
+		"Time of storage" : "object",
+		"Description" : "object",
+		"BatchType" : "object",
+		"Old Sand" : "int64",
+		"Newsand" : "int64",
+		"Bentonite" : "int64",
+		"Coal Dust" : "int64",
+		"Filter Dust" : "int64",
+		"Tot. Weight" : "int64",
+		"Water Type" : "object",
+		"Water Qty." : "int64",
+		"MICOMP wtr" : "int64",
+		"Premix time" : "int64",
+		"Readymix time" : "int64",
+		"Cycle time" : "int64",
+		"cost centre" : "int64",
+		"COMP set" : "int64",
+		"New Sand" : "int64",
+		"moist avg" : "float64",
+		"moist act" : "int64",
+		"comp frst" : "int64",
+		"comp last" : "float64",
+		"temp avg" : "float64",
+		"temp act" : "int64",
+		"GCS" : "float64",
+		"SPC fine water" : "float64",
+		"SPC set moist" : "float64",
+		"COMP frst R" : "float64"
+
+
+
+
+	}
+}
